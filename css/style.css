@@ -1,0 +1,29 @@
+.header-logo a, .footer-logo a{
+    width: initial;
+}
+.site-logo {
+    font-family: "librebaskerville-bold", serif;
+    color: #FFFFFF;
+    font-size: 3rem;
+    line-height: 1.35;
+    margin-top: 0;
+}
+.work_experience_list li{
+    margin-bottom: 10px;
+}
+.s-contact{
+    background-image: url(../images/etayAndAmit.jpg);
+}
+.contact__infos a {
+    color: rgba(255, 255, 255, 0.5);
+}
+
+.contact__infos a:hover{
+    color: rgba(255, 255, 255, 0.3);
+}
+footer a.site-logo{
+    color: #fff;
+}
+footer a.site-logo:hover, .header-logo a.site-logo:hover{
+    color: #862121;
+}
